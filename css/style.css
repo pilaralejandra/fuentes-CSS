@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Quicksand-Regular";
+    src: url("Quicksand-Regular.otf");
+}
+body{
+  font-family: "Quicksand-Regular";
+}
